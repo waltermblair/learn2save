@@ -1,0 +1,4 @@
+[submodule "submodules/learn2save-backend"]
+	path = submodules/learn2save-backend
+	url = https://github.com/waltermblair/learn2save-backend.git
+	branch = master
